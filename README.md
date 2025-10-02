@@ -1,10 +1,3 @@
-Perfect idea 🚀 Creating a GitHub repo for your **Hotel Room Management Smart Contract** is the best way to track your progress in Solidity. I’ll give you a professional `README.md` you can directly use in your repo.
-
----
-
-## 📄 README.md (Hotel Room Contract)
-
-````markdown
 # 🏨 Hotel Room Management Smart Contract
 
 A simple smart contract written in Solidity to simulate a **hotel room booking system** on Ethereum.  
@@ -67,14 +60,3 @@ The contract demonstrates **enums, modifiers, events, and payable functions** in
 
 This project is licensed under the **MIT License**.
 
-```
-
----
-
-👉 Next Step:  
-1. Create a new repo on GitHub (e.g., `hotel-room-solidity`).  
-2. Add `HotelRoom.sol` and this `README.md`.  
-3. Commit & push 🚀  
-
-Would you like me to also give you a **`requirements.txt` / project structure** (if you want to expand later with Hardhat + frontend), or just keep it simple with only Solidity code + README for now?
-```
